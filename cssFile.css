@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(232, 222, 125);
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(5, 91, 178);
+    
+    
+}
+
+h4,p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(69, 70, 68);
+}
